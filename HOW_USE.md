@@ -25,7 +25,7 @@ local TOON = require("DVTOONL")
 ```
 
 > [!TIP]
-> 💡 Make sure the filename is exactly DVTOONL.lua (case-sensitive).
+> Make sure the filename is exactly DVTOONL.lua (case-sensitive).
 If you rename the file, update the name in require.
 
 ---
@@ -65,4 +65,5 @@ The module works in any Lua 5.1+ environment, including:
 * LÖVE2D,
 * Standalone scripts,
 * OpenComputers, CC:Tweaked, and more.
->✨ Tip: You don’t need to copy .git, test/, README.md, or the license file—those are only for development. For usage, only DVTOONL.lua is required.
+> [!TIP]
+>You don’t need to copy .git, test/, README.md, or the license file—those are only for development. For usage, only DVTOONL.lua is required.
