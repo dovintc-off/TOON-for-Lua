@@ -1,0 +1,16 @@
+saveData:
+  achievements:
+  player:
+    inventory[2]{count,equipped,item}:
+      5,false,Health Potion
+      1,true,Iron Sword
+    stats:
+      mana: 75.5
+      health: 100
+    name: Dovintc
+    active: true
+    level: 10
+  settings:
+    fullscreen: true
+    language: ru
+    volume: 0.8

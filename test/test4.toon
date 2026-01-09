@@ -1,0 +1,13 @@
+shops:
+  Wilmort[3]{Product,price,quantity}:
+    Apple,1.99$/1kg,290kg
+    Potato,0.99$/1kg,1037kg
+    TV,1399.99$,20
+  Magnit[3]{Product,price,quantity}:
+    Apple,0.55$/1kg,1290kg
+    Potato,0.25$/1kg,3956kg
+    TV,1200$,5
+  Amazan[3]{Product,price,quantity}:
+    Apple,1.55$/1kg,123kg
+    Potato,0.99$/1kg,137kg
+    TV,1000$,100
